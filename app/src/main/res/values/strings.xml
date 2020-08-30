@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Architecture Component</string>
+    <string name="input_task_hint">Please input title of task</string>
+    <string name="add_task">Add task</string>
+</resources>
